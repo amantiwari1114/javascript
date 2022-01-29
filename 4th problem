@@ -1,0 +1,10 @@
+var a=45;
+if(a<0){
+  console.log("Negative");
+}
+if (a>0){
+  console.log("Positive");
+}
+if (a=0){
+  console.log("zero");
+}
